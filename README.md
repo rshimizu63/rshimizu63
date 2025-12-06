@@ -4,10 +4,11 @@ My name is Ryota Shimizu and I'm currently a sutdent of [University of Chicago, 
 Also, I'm working at the Ministry of Finance in Japan, where I have been involved in budget, tax, economic security policy, and research on medical care.  
 
 # My previos projects
-- [How do the world's critical mineral flow?](https://github.com/rshimizu63/interactive-project) (Ongoing): In this project, we can create a Sankey diagram showing the flows of mineral resources between countries using international trade data. The diagram is interactive, allowing users to choose any metal resource, year, and so on. This project allows users to grasp the full picture of mineral resource flows and analyze them in depth.
-- 
+- [How do the world's critical mineral flow?](https://github.com/rshimizu63/interactive-project) (Ongoing): Creating Sankey diagrams showing the flows of mineral resources between countries using international trade data. The diagram is interactive, allowing users to choose any metal resource, year, and so on. This project allows users to grasp the full picture of mineral resource flows and analyze them in depth.
+  
+- [Inefficiency in the distribution of medical resources in Japan](https://github.com/rshimizu63/Static-Visualization-rshimizu): Showing how local medical resources in Japan are unbalanced and overly concentrated in specific regions. Through a series of data-driven visualizations, this project demonstrates that an excessive concentration of hospital beds in certain prefectures can lead to the provision of unnecessary medical services, thereby increasing medical expenditures, while contributing relatively little to improving people’s health status.
 
-
+- [Trade and production insights](https://github.com/uchicago-2025-capp30122/30122-project-asia-pacific-enthusiastic-coding-apec): Developed an analytical dashboard that integrates trade and production data with economic modeling to analyze the effects of tariffs on products and trading partners, as well as sectors in which the U.S. is highly dependent on a small number of countries. The dashboard helps examine trade flows, production concentration, and supply chain resilience, providing valuable insights for policymakers and industry leaders seeking to strengthen economic stability and improve trade policy effectiveness.
 
 <!--
 **rshimizu63/rshimizu63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
