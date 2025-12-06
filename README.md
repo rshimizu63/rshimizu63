@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+My name is Ryota Shimizu and I'm currently a sutdent of [University of Chicago, Masters in Computatonal Analysis and Public Policy](https://capp.uchicago.edu/).   
+Also, I'm working at the Ministry of Finance in Japan, where I have been involved in budget, tax, economic security policy, and research on medical care.  
+
+# My previos projects
+- [How do the world's critical mineral flow?](https://github.com/rshimizu63/interactive-project) (Ongoing): In this project, we can create a Sankey diagram showing the flows of mineral resources between countries using international trade data. The diagram is interactive, allowing users to choose any metal resource, year, and so on. This project allows users to grasp the full picture of mineral resource flows and analyze them in depth.
+- 
+
+
+
 <!--
 **rshimizu63/rshimizu63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
